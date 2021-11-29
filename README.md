@@ -58,11 +58,11 @@ Then import the following libraries and extensions:
 ## Usage
 
 
-* ### In Google Colab imported CSV file
+* ### In Google Colab import CSV files
 * ### Compare monthly median trends to monthly trends and use hyplot to visualize trends
-* ### Analyze the date for seasonal affects using a heatmap and grouping the data by weeks and hours
-* ### Investigate and calculate the the correlation bewteen the search trends data and stock prices of the company 
-* ### Using Prophet create a time series model to predict the future search traffic trends  
+* ### Analyze the data for seasonal affects using a heatmap and grouping the data by weeks and hours
+* ### Investigate and calculate the correlation bewteen the search trends data and stock prices of the company 
+* ### Using Prophet create a time-series model to predict the future search traffic trends  
 
 
 ---
